@@ -1,7 +1,7 @@
 package org.example;
 
 public class Incidente {
-    //horas {complejo,}
+    //private enum string horas {"complejo","medio","simple"};
     private int codigo;
     private String servicio;
     private String problema;
